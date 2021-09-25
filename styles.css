@@ -1,0 +1,18 @@
+body{
+  background-image: url("C:/Users/Prikshit/Desktop/web development/html-personal site/bg.jpg");
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #506D84;
+  border-width: 8px;
+  width: 6%;
+}
+
+h3{
+  color: #5F7A61;
+}
